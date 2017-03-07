@@ -1,0 +1,13 @@
+#Mon Jun 17 15:49:29 EDT 2013
+com.ti.ccstudio.buildDefinitions.MSP430.Debug.1065994021/internalBuilder/enabled=false
+com.ti.ccstudio.buildDefinitions.MSP430.Debug.1065994021/internalBuilder/ignoreErr=true
+com.ti.ccstudio.buildDefinitions.MSP430.Debug.1323853650/internalBuilder/enabled=false
+com.ti.ccstudio.buildDefinitions.MSP430.Debug.1323853650/internalBuilder/ignoreErr=true
+com.ti.ccstudio.buildDefinitions.MSP430.Debug.1502176406/internalBuilder/enabled=false
+com.ti.ccstudio.buildDefinitions.MSP430.Debug.1502176406/internalBuilder/ignoreErr=true
+com.ti.ccstudio.buildDefinitions.MSP430.Release.1217813558/internalBuilder/enabled=false
+com.ti.ccstudio.buildDefinitions.MSP430.Release.1217813558/internalBuilder/ignoreErr=true
+eclipse.preferences.version=1
+environment/project=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<environment/>\r\n
+environment/project/com.ti.ccstudio.buildDefinitions.MSP430.Debug.1323853650=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<environment/>\r\n
+environment/project/com.ti.ccstudio.buildDefinitions.MSP430.Debug.1502176406=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<environment/>\r\n
